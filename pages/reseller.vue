@@ -1,0 +1,12 @@
+<template>
+    <PhotoReseller></PhotoReseller>
+    <SpacerProject></SpacerProject>
+    <PortfoliRes></PortfoliRes>
+    <SpacerProject></SpacerProject>
+    <PortfolioRes></PortfolioRes>
+    <SpacerProject></SpacerProject>
+    <SuccesStory></SuccesStory>
+    <SpacerAcademy></SpacerAcademy>
+    <FormInformation></FormInformation>
+    <SpacerProject></SpacerProject>
+</template>
